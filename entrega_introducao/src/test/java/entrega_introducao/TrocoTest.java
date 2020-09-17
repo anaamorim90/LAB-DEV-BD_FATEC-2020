@@ -15,3 +15,6 @@ public class TrocoTest {
 		}
 }
 
+//testando novamente.
+//estado verde novamente (que é o azul, código refatorado), pessou no teste!
+
