@@ -9,10 +9,9 @@ public class TrocoTest {
 	private Troco troco = new Troco();
 
 	@Test
-	public void testSomar() {
-		assertEquals(30, troco.calculaTroco(), 0);
-		assertEquals(40.35, troco.calculaTroco(), 0);
-
+	public void testTroco() {
+		assertEquals(-40.35, troco.calculaTroco(100.00, 59.65), 0);
+		assertEquals(5.00, troco.calculaTroco(75.00, 80.00), 0);
 		}
 }
 
