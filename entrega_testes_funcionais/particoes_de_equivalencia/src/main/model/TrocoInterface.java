@@ -1,6 +1,7 @@
 package model;
+import org.json.JSONObject;
 
 public interface TrocoInterface {
 
-	public double calculaTroco(double conta, double pagamento);
+	public double calculaTroco(String json);
 }
