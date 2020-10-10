@@ -10,8 +10,8 @@ revejam e superem as dificuldades encontradas na execução da primeira atividad
 Projeto em andamento: Aplicação para cálculo de troco em uma transação financeira.
 
 # Link para os vídeos
-https://youtu.be/MvV-NcU864U - vídeo refeito da introdução, com as correções.
-https://youtu.be/rBF_1CCoa7Q - vídeo explicativo com as partições.
+<p>https://youtu.be/MvV-NcU864U - vídeo refeito da introdução, com as correções.</p>
+<p>https://youtu.be/rBF_1CCoa7Q - vídeo explicativo com as partições.</p>
 
 Para rodar o teste é preciso executar o comando abaixo no terminal.
   - gradle test
